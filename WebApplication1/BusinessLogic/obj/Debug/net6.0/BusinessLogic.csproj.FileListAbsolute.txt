@@ -1,0 +1,15 @@
+E:\Jeevi\WebApplication1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+E:\Jeevi\WebApplication1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+E:\Jeevi\WebApplication1\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+E:\Jeevi\WebApplication1\BusinessLogic\bin\Debug\net6.0\WebAppSettings.dll
+E:\Jeevi\WebApplication1\BusinessLogic\bin\Debug\net6.0\WebAppSettings.pdb
+E:\Jeevi\WebApplication1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+E:\Jeevi\WebApplication1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Jeevi\WebApplication1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+E:\Jeevi\WebApplication1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+E:\Jeevi\WebApplication1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Jeevi\WebApplication1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+E:\Jeevi\WebApplication1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+E:\Jeevi\WebApplication1\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+E:\Jeevi\WebApplication1\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+E:\Jeevi\WebApplication1\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll

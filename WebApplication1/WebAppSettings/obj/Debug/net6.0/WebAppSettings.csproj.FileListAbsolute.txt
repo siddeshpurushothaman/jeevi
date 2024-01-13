@@ -1,0 +1,11 @@
+E:\Jeevi\WebApplication1\WebAppSettings\obj\Debug\net6.0\WebAppSettings.GeneratedMSBuildEditorConfig.editorconfig
+E:\Jeevi\WebApplication1\WebAppSettings\obj\Debug\net6.0\WebAppSettings.AssemblyInfoInputs.cache
+E:\Jeevi\WebApplication1\WebAppSettings\obj\Debug\net6.0\WebAppSettings.AssemblyInfo.cs
+E:\Jeevi\WebApplication1\WebAppSettings\obj\Debug\net6.0\WebAppSettings.csproj.CoreCompileInputs.cache
+E:\Jeevi\WebApplication1\WebAppSettings\bin\Debug\net6.0\WebAppSettings.deps.json
+E:\Jeevi\WebApplication1\WebAppSettings\bin\Debug\net6.0\WebAppSettings.dll
+E:\Jeevi\WebApplication1\WebAppSettings\bin\Debug\net6.0\WebAppSettings.pdb
+E:\Jeevi\WebApplication1\WebAppSettings\obj\Debug\net6.0\WebAppSettings.dll
+E:\Jeevi\WebApplication1\WebAppSettings\obj\Debug\net6.0\refint\WebAppSettings.dll
+E:\Jeevi\WebApplication1\WebAppSettings\obj\Debug\net6.0\WebAppSettings.pdb
+E:\Jeevi\WebApplication1\WebAppSettings\obj\Debug\net6.0\ref\WebAppSettings.dll
